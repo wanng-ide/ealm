@@ -8,13 +8,13 @@ This is the official repository for "EALM: Introducing Multidimensional Ethical 
 
 The MP-ETHICS dataset is uploaded.
 
-## Benchmark
+## MP-ETHICS Benchmark
 
 | Method         | Samples F1 score (%) |
 | -------------- | -------------------: |
-| RoBERTa-base   |                35.7  |
-| DeBERTa-base   |                37.3  |
-| DeBERTa3-large |                38.1  |
 | EALM (ours)    |                44.5  |
+| DeBERTa3-large |                38.1  |
+| DeBERTa-base   |                37.3  |
+| RoBERTa-base   |                35.7  |
 
 Current results present the MP-ETHICS leaderboard showcasing the performance comparison of various methods.
